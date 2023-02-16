@@ -1,0 +1,2 @@
+/api/posts  /.netlify/builders/posts  200
+/api/posts/*  /.netlify/builders/posts/:splat  200
